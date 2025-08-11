@@ -1,0 +1,14 @@
+Deep Learning based Blood Group Detection using Fingerprint.
+*****************************************************
+Blood Images:
+
+Algorithm / Model used : MobileNetV2 Architecture.
+Training Accuracy: 100%
+Validation Accuracy:100%.
+*****************************************************
+Finger Print Images:
+
+Algorithm / Model Used : MobileNetV2 Architecture.
+Training Accuracy: 94.00%
+Validation Accuracy: 90.00%.
+*****************************************************

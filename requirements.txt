@@ -1,0 +1,14 @@
+pip install flask==3.0.3
+pip install tensorflow==2.16.1
+pip install pillow==10.4.0
+
+Python 3.12.0
+
+
+install Visual C++  
+  
+	Link - https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
+        dowmload--- x64: vc_redist.x64.exe
+
+
+https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
