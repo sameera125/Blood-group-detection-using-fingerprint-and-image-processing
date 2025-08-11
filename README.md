@@ -107,10 +107,6 @@ BloodGroupDetection/
 ---
 
 ## 👨‍💻 Authors
-- Shaik Sameera  
-- Kampasati Prakash  
-- Kanchu Ramesh  
-- Tappetla Keerthisri  
-
-Under the guidance of **Mr. A. Srinivas Rao**  
+- Shaik Sameera
+  
 Sai Spurthi Institute of Technology
